@@ -6,7 +6,7 @@ We list papers in rough order of publication.
 
 * Zhengchun Liu, Prasanna Balaprakash, Rajkumar Kettimuthu and Ian Foster. [Explaining Wide Area Data Transfer Performance](http://dx.doi.org/10.1145/3078597.3078605). (to appear in HPDC'17).
 
-* Nageswara S.V. Rao, Qiang Liu, Satyabrata Sen, Don Towsley, Gayane Varodoyan, Raj Ke imuthu, Ian Foster. [TCP Throughput Profiles Using Measurements Over Dedicated Connections](http://dx.doi.org/10.1145/3078597.3078615). (to appear in HPDC'17).
+* Nageswara S.V. Rao, Qiang Liu, Satyabrata Sen, Don Towsley, Gayane Varodoyan, Raj Ke imuthu and Ian Foster. [TCP Throughput Profiles Using Measurements Over Dedicated Connections](http://dx.doi.org/10.1145/3078597.3078615). (to appear in HPDC'17).
 
 * K. Maheshwari, Eun-Sung Jung , J. Meng, V. Morozov, V. Vishwanath, R. Kettimuthu, [Workflow Performance Improvement using Model-based Scheduling over Multiple Clusters and Clouds](http://doi.org/10.1016/j.future.2015.03.017), Future Generation Computer Systems.
 
