@@ -1,3 +1,5 @@
+[Home](README.md) | [Papers](papers.md) | [Presentations](presentations.md) | [Participants](participants.md) | [News](news.md)
+
 # Papers
 
 We list papers in rough order of publication.
