@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
 title: RAMSES project
 description: The Robust Analytic Models for Science at Extreme Scales (RAMSES) project.
+show_downloads: false
