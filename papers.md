@@ -30,4 +30,3 @@ We list papers in rough order of publication.
 
 
 * Eunjung Park, Stephan Eidenbenz, Nandakishore Santhi, Guillaume Chapui, Bradley Settlemyer, [Parameterized Benchmarking of Parallel Discrete Event Simulation Systems: Communication, Computation, and Memory](https://doi.org/10.1109/WSC.2015.7408388), WSC 15: Winter Simulation Conference 2015. 
-* 
