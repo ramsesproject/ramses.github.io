@@ -13,9 +13,14 @@ We list papers in rough order of publication.
 
 * Lei Cao and Bradley Settlemyer and John Bent. [To Share or Not to Share: Comparing burst buffer architectures](). Spring Simulation Multi-Conference (SpringSim 2017)
 
+* T. Bicer, D. Gursoy , V. De Andrade, R. Kettimuthu, W. Scullin, F. De Carlo, I. T. Foster, [Trace: A High-Throughput Tomographic Reconstruction Engine for Large-Scale Datasets](http://dx.doi.org/10.1186/s40679-017-0040-7), Special Issue on High-Throughput X-Ray Imaging and Algorithms, Advanced Structural and Chemical Imaging, 2017
+
+
 ## 2016
 
 * Preeti Malakar, Venkatram Vishwanath, Christopher Knight, Todd S. Munson, Michael E. Papka. [Optimal execution of co-analysis for large-scale molecular dynamics simulations](https://doi.org/10.1109/SC.2016.59). SC'16: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis: 702-715.
+
+* T. Bicer, D. Gursoy , R. Kettimuthu, F. De Carlo, I. T. Foster, [Optimization of tomographic reconstruction workflows on geographically distributed resources](https://doi.org/10.1107/S1600577516007980), Journal of Synchrotron Radiation, 2016
 
 ## 2015
 
