@@ -3,9 +3,9 @@ layout: default
 ---
 [Home](index.html) | [Papers](papers.html) | [Presentations](presentations.html) | [Participants](participants.html) | [News](news.html)
 
-# Papers
-
 We list papers in rough order of publication.
+
+## 2017
 
 * Zhengchun Liu, Prasanna Balaprakash, Rajkumar Kettimuthu and Ian Foster. [Explaining Wide Area Data Transfer Performance](http://dx.doi.org/10.1145/3078597.3078605). (to appear in HPDC'17).
 
@@ -13,7 +13,11 @@ We list papers in rough order of publication.
 
 * Lei Cao and Bradley Settlemyer and John Bent. [To Share or Not to Share: Comparing burst buffer architectures](). Spring Simulation Multi-Conference (SpringSim 2017)
 
+## 2016
+
 * Preeti Malakar, Venkatram Vishwanath, Christopher Knight, Todd S. Munson, Michael E. Papka. [Optimal execution of co-analysis for large-scale molecular dynamics simulations](https://doi.org/10.1109/SC.2016.59). SC'16: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis: 702-715.
+
+## 2015
 
 * K. Maheshwari, Eun-Sung Jung , J. Meng, V. Morozov, V. Vishwanath, R. Kettimuthu, [Workflow Performance Improvement using Model-based Scheduling over Multiple Clusters and Clouds](http://doi.org/10.1016/j.future.2015.03.017), Future Generation Computer Systems.
 
