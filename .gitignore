@@ -2,6 +2,7 @@ _site
 *.sh
 jekyll-theme-leap-day.gemspec
 Gemfile
+Gemfile.lock
 .gitignore
 .bundle
 .sass-cache
