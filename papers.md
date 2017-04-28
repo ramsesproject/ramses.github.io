@@ -11,6 +11,8 @@ We list papers in rough order of publication.
 
 * Nageswara S.V. Rao, Qiang Liu, Satyabrata Sen, Don Towsley, Gayane Varodoyan, Raj Ke imuthu and Ian Foster. [TCP Throughput Profiles Using Measurements Over Dedicated Connections](http://dx.doi.org/10.1145/3078597.3078615). (to appear in HPDC'17).
 
+* Lei Cao and Bradley Settlemyer and John Bent. [To Share or Not to Share: Comparing burst buffer architectures](). Spring Simulation Multi-Conference (SpringSim 2017)
+
 * Preeti Malakar, Venkatram Vishwanath, Christopher Knight, Todd S. Munson, Michael E. Papka. [Optimal execution of co-analysis for large-scale molecular dynamics simulations](https://doi.org/10.1109/SC.2016.59). SC'16: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis: 702-715.
 
 * K. Maheshwari, Eun-Sung Jung , J. Meng, V. Morozov, V. Vishwanath, R. Kettimuthu, [Workflow Performance Improvement using Model-based Scheduling over Multiple Clusters and Clouds](http://doi.org/10.1016/j.future.2015.03.017), Future Generation Computer Systems.

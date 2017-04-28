@@ -1,1 +1,9 @@
+_site
 *.sh
+jekyll-theme-leap-day.gemspec
+Gemfile
+.gitignore
+.bundle
+.sass-cache
+Gemfile.lock
+.DS_Store
