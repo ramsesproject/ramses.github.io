@@ -29,4 +29,3 @@ RAMSES is supported by the US Department of Energy's [Office of Advanced Scienti
 * Brian Tierney, Lawrence Berkeley National Laboratory (Co-Investigator)
 * Don Towsley, University of Massachusetts (Co-Investigator)
 
-This site is maintained by Ian Foster and [Zhengchun Liu](http://zliu.info)
