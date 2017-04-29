@@ -70,7 +70,7 @@ strong {
 }
 
 .wrapper {
-  width:650px;
+  width:850px;
   margin:0 auto;
   position:relative;
 }
@@ -160,7 +160,7 @@ header {
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
   z-index:99;
   -webkit-font-smoothing:antialiased;
-  min-height: 76px;
+  min-height: 60px;
 
   h1 {
     font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -271,10 +271,10 @@ header {
 }
 
 section {
-  width:750px;
+  width:800px;
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
-  margin-top: 190px;
+  margin-top: 150px;
   position:relative;
   background: #fbfbfb;
   border-radius: 3px;
@@ -287,12 +287,13 @@ small {
 }
 
 nav {
-  width: 230px;
+  width: 130px;
   position: fixed;
   top: 220px;
   left:50%;
   margin-left:-580px;
   text-align: right;
+  font-size:18px;
 
   ul {
     list-style: none;
@@ -345,7 +346,7 @@ footer {
   width:180px;
   position: fixed;
   left:50%;
-  margin-left:-530px;
+  margin-left:-630px;
   bottom:20px;
   text-align: right;
   line-height: 16px;
