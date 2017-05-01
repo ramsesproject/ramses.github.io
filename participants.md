@@ -79,7 +79,7 @@ Vitali Morozov is a Principal Application Performance Engineer at the Argonne Le
 Venkatram Vishwanath is a computer scientist  at the Argonne National Laboratory. His research interests span the areas of large-scale data movement and management, scalable data analysis and visualization, in situ analytics, and performance modeling.  In RAMSES, he leads the performance modeling and performance projections for exascale simulations and in situ workflows on current and future supercomputing systems.
 
 ---
-[Zhengchun Liu](http://www.mcs.anl.gov/~zcliu/), [Argonne National Laboratory](http://zliu.info)
+[Zhengchun Liu](http://zliu.info), [Argonne National Laboratory](http://www.mcs.anl.gov/~zcliu/)
 
 <img src="files/img/zhengchun_liu.png" alt="Drawing" style="width: 100px;"/>
 
