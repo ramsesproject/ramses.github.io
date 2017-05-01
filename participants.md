@@ -44,6 +44,13 @@ Don Towsley is a Distinguished University Professor in the College of Informatio
 Prasanna Balaprakash is an assistant computer scientist with a joint appointment in the Mathematics and Computer Science Division and the Leadership Computing Facility at Argonne National Laboratory. His research interests span the areas of machine learning, numerical optimization, and performance engineering. His current research focus is on the design, development, and analysis of algorithms for solving large-scale problems that arise in automating the tuning of computer codes and on computationally expensive design-space explorations. In RAMSES, he is responsible for developing statistical machine learning methods for surrogate performance models. 
 
 ---
+[Rajkumar Kettimuthu, Argonne National Laboratory](http://www.mcs.anl.gov/~kettimut/)
+
+<img src="files/img/Raj-GO.jpg" alt="Drawing" style="width: 100px;"/>
+
+Rajkumar Kettimuthu is a Computer Scientist at Mathematics and Computer Science Division at Argonne National Laboratory and a Senior Fellow at the Computation Institue at The University of Chicago and Argonne National Laboratory. 
+
+---
 [Sven Leyffer, Argonne National Laboratory](http://wiki.mcs.anl.gov/leyffer/index.php/Sven_Leyffer)
 
 <img src="files/img/leyffer_100.jpg" alt="Drawing" style="width: 100px;"/>
