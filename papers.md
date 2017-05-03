@@ -6,6 +6,7 @@ layout: default
 We list papers in rough order of publication.
 
 ## 2017
+* N. S. V. Rao, Q. Liu, S. Sen, J. Hanley, I. Foster, R. Kettimuthu, C. Q. Wu, D. Yun, D. Towsley, G. Vardoyan, [Experiments and analyses of data transfers over wide-area dedicated connections](). (to appear in ICCCN 2017).
 
 * Zhengchun Liu, Prasanna Balaprakash, Rajkumar Kettimuthu and Ian Foster. [Explaining Wide Area Data Transfer Performance](http://dx.doi.org/10.1145/3078597.3078605). (to appear in HPDC'17).
 
