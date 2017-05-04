@@ -1,3 +1,7 @@
+gems:
+  - jekyll-seo-tag
+title: DoE RAMSES Project
+description: The DoE RAMSES Project. The Robust Analytic Models for Science at Extreme Scales project funded by U.S. Department of Energy.
 title: RAMSES project
 description: The Robust Analytic Models for Science at Extreme Scales (RAMSES) project.
 show_downloads: false
