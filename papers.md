@@ -27,9 +27,15 @@ We list papers in rough order of publication.
 
 * Q. Liu, N. Rao, R. Kettimuthu, C. Wu, D. Yun and I. Foster, [Measurement-Based Analysis of Performance Profiles and Dynamics of UDP Transport Protocols](https://doi.org/10.1109/ICNP.2016.7784418), 24th IEEE International Conference on Network Protocols (ICNP 2016), Nov. 2016.
 
-* P. Malakar, V. Vishwanath, C. Knight, T. Munson, M. Papka [Optimal Execution of Co-analysis for Large-scale Molecular Dynamics Simulations](https://doi.org/10.1109/SC.2016.59), IEEE/ACM International Conference for High Performance Computing, Networking, Storage and Analysis (SC16), Salt Lake City, UT, November 2016.* P. Balaprakash, V. Morozov, R. Kettimuthu, K. Kumaran, and I. Foster, [Improving Data Transfer Throughput with Direct Search Optimization](https://doi.org/10.1109/ICPP.2016.36), International Conference on Parallel Processing (ICPP), Philadelphia, Aug 16-19, 2016.
+* P. Balaprakash, V. Morozov, R. Kettimuthu, K. Kumaran, and I. Foster, [Improving Data Transfer Throughput with Direct Search Optimization](https://doi.org/10.1109/ICPP.2016.36), International Conference on Parallel Processing (ICPP), Philadelphia, Aug 16-19, 2016.
 
-* R. Kettimuthu, G. Agrawal, P. Sadayappan, and I. Foster, [Differentiated Scheduling of Response-Critical and Best-Effort Wide-Area Data Transfers](https://doi.org/10.1109/IPDPS.2016.97), 30th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2016), May 2016.* G. Vardoyan, N. S. V. Rao, D. Towlsey, [Models of TCP in high-BDP environments and their experimental validation](https://people.cs.umass.edu/~gvardoyan/Pubs/ICNP2016.pdf), International Conference on Network Protocols, November 8-11, 2016, Singapore.* N. S. V. Rao, Q. Liu, D. Towlsey, G. Vardoyan, R. Kettimuthu, I. Foster, B. Settlemyer, High-Performance data flows using analytical models and measurements, Workshop on Modeling & Simulation of Systems and Applications, August 10-12, 2016, Seattle, Washington (Extended Abstract)* N. S. V. Rao, G. Hinkel, N. Imam, B. Settlemyer, Measurements of file transfer rates over dedicated long-haul connections, 2nd International Workshop on the Lustre Ecosystem: Enhancing Lustre Support for Diverse Workloads, March 8-9, 2016, Baltimore, MD
+* R. Kettimuthu, G. Agrawal, P. Sadayappan, and I. Foster, [Differentiated Scheduling of Response-Critical and Best-Effort Wide-Area Data Transfers](https://doi.org/10.1109/IPDPS.2016.97), 30th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2016), May 2016.
+
+* G. Vardoyan, N. S. V. Rao, D. Towlsey, [Models of TCP in high-BDP environments and their experimental validation](https://people.cs.umass.edu/~gvardoyan/Pubs/ICNP2016.pdf), International Conference on Network Protocols, November 8-11, 2016, Singapore.
+
+* N. S. V. Rao, Q. Liu, D. Towlsey, G. Vardoyan, R. Kettimuthu, I. Foster, B. Settlemyer, High-Performance data flows using analytical models and measurements, Workshop on Modeling & Simulation of Systems and Applications, August 10-12, 2016, Seattle, Washington (Extended Abstract)
+
+* N. S. V. Rao, G. Hinkel, N. Imam, B. Settlemyer, Measurements of file transfer rates over dedicated long-haul connections, 2nd International Workshop on the Lustre Ecosystem: Enhancing Lustre Support for Diverse Workloads, March 8-9, 2016, Baltimore, MD
 
 ## 2015
 
