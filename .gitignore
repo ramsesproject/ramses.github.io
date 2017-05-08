@@ -6,5 +6,4 @@ Gemfile.lock
 .gitignore
 .bundle
 .sass-cache
-Gemfile.lock
 .DS_Store

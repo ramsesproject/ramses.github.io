@@ -1,1 +1,0 @@
-This is the repository of [RAMSES](https://ramsesproject.github.io) project page. https://ramsesproject.github.io
