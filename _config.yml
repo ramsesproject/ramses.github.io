@@ -2,6 +2,12 @@ gems:
   - jekyll-seo-tag
 title: DoE RAMSES Project
 description: The Robust Analytic Models for Science at Extreme Scales project funded by U.S. Department of Energy.
+url: https://ramsesproject.github.io/
+social:
+  name: DoE RAMSES Project
+  links:
+    - https://sites.google.com/site/ramsesdoeproject/
+    - https://github.com/ramsesproject
 show_downloads: false
 google_analytics:
 theme: 
