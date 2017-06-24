@@ -5,7 +5,7 @@ layout: default
 
 # About
 
-The **RAMSES project** was launched in 2014 with the goal of developing a new science of **end-to-end analytical performance modeling** that will transform understanding of the behavior of science workflows in extreme-scale science environments. Much as modern design tools permit digital pre-assembly and simulated flight of new aircraft before they are built, predictive control during flight, and predictive trending for failure detection, our new methods will provide a basis for tools that allow developers and users of science workflows and operators of science facilities to ***predict***, ***explain***, and ***optimize***.
+The **RAMSES project** was launched in 2014 with the goal of developing a new science of **end-to-end analytical performance modeling** that will transform understanding of the behavior of science workflows in extreme-scale science environments. Much as modern design tools permit digital pre-assembly and simulated flight of new aircraft before they are built, predictive control during flight, and predictive trending for failure detection, our new methods will provide a basis for tools that allow developers and users of science workflows and operators of science facilities to [***explain***, ***predict*** and ***optimize***](files/img/epo.png).
 
 # Motivation
 
@@ -20,6 +20,25 @@ We intend that RAMSES research will not only advance knowledge but also provide 
 The potential benefits of RAMSES research for science and technology are considerable. New modeling capabilities that enable better understanding of workflow and infrastructure performance have the potential to accelerate discovery across dozens of DOE science facilities that are used by tens of thousands of researchers from across the nation. To give just two examples: acceleration of a data analysis workflow used at a DOE experimental facility can permit real-time rather than post hoc user feedback, increasing the efficiency of the research performed at that facility by orders of magnitude. Workflow optimizations that reduce the number of CPUs required for analysis allow us to increase the number of people who can profit from leadership computing facilities. Increasingly, workflows comparable to those encountered in extreme-scale
 science are appearing in industry as well, providing opportunities for yet broader impact.
 
+# RAMSES-II
+
+In the next phase of RAMSES (RAMSES-2), we propose to build on these successes to focus on specific challenges associated with
+next-generation science experiments, in which experimental apparatus, supercomputers, storage systems, and other devices are connected by high-speed networks.
+Moving beyond data transfers, we focus on a broad class of streaming scenarios, including coordinated monitoring and steering of  experiments, computations, and storage. They provide the next generation of science enabling capabilities, while challenging the underlying workflow implementations and optimizations.
+Using a mix of prototyping, experimentation, and modeling, we aim to produce new understanding of how
+individual workflows, collections of workflows,
+and science facilities can be engineered to enable efficient and cost-effective workflow execution.
+We envision this work involving innovations at multiple levels.
+We will prototype new data streaming applications and mechanisms,
+building on early work conducted with the Advanced Photon Source, Advanced Light Source, and other facilities,
+with the goal of producing a framework in which a wide range of streaming use cases and scenarios can be explored,
+to include data ingest into different levels of the storage hierarchy on next-generation supercomputers.
+We will extend previous work on experimental characterization, data-driven modeling, and analytical modeling of file transfers to encompass such scenarios.
+We will develop testbed and production-level experiments and analytics to characterize and assess the performance of TCP variants and UDP-based transport for sustained streaming, on-demand data push and pull, and control traffic, by building on concave-convex throughput profile characterizations and Poincare dynamics analysis of transport protocols.
+At the facility level and beyond,
+we will investigate methods for co-optimizing not only individual workflows
+but also collections of workflows and the underlying science facility fabric.
+
 RAMSES is supported by the US Department of Energy's [Office of Advanced Scientific Computing Research](http://science.energy.gov/ascr/) (ASCR), under the leadership of Rich Carlson.
 
 # RAMSES PIs
@@ -29,3 +48,7 @@ RAMSES is supported by the US Department of Energy's [Office of Advanced Scienti
 * Brian Tierney, Lawrence Berkeley National Laboratory (Co-Investigator)
 * Don Towsley, University of Massachusetts (Co-Investigator)
 
+# RAMSES-2 PIs
+* Ian Foster, Argonne National Laboratory (overall Principal Investigator)
+* Nagi Rao, Oak Ridge National Laboratory (Co-PI)
+* Raj Kettimuthu, Argonne National Laboratory (Co-PI)
