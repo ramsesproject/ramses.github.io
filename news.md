@@ -3,6 +3,8 @@ layout: default
 ---
 [Home](index.html)| [Papers](papers.html) | [Presentations](presentations.html) | [Participants](participants.html) | [News](news.html)
 
+* August 9, 2017. RAMSES has one paper [A mathematical programming and simulation based framework to evaluate cyberinfrastructure design choices]()  accepted for presentation at the The 13th IEEE International Conference on [eScience](http://escience2017.org.nz/). 
+
 * __June 26-30, 2017__ RAMSES participants Ian Foster, Rajkumar Kettimuthu, Nageswara S.V. Rao, Qiang Liu and Zhengchun Liu give talks ([slides-1](https://lzhengchun.github.io/file/slides-HPDC-2017-Zhengchun-Liu.pdf), [slides-2]()) and present posters ([poster-1](https://lzhengchun.github.io/file/hpdc17-poster.pdf), [poster-2]()) at the HPDC'17. 
 
 * __June 26, 2017__ RAMSES review and renewal at U.S. Department of Energy. 
