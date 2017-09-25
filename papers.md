@@ -6,6 +6,8 @@ layout: default
 We list papers in rough order of publication.
 
 ## 2017
+* Tekin Bicer, Doga Gursoy, Rajkumar Kettimuthu, Ian T. Foster,Bin Ren, Vincent De Andrede and Francesco De Carlo. [Real-Time Data Analysis and Autonomous Steering of Synchrotron Light Source Experiments]() The 13th IEEE International Conference on eScience. (to appear).
+
 * Zhengchun Liu, Rajkumar Kettimuthu, Sven Leyffer, Prashant Palkar and Ian Foster. [A mathematical programming and simulation based framework to evaluate cyberinfrastructure design choices](). The 13th IEEE International Conference on eScience. (to appear).
 
 * Ryan Chard and Kyle Chard and Jason Alt and Dilworth Y. Parkinson and Steve Tuecke and Ian Foster. [RIPPLE: Home Automation for Research Data Management](). (to appear in the 1st International Workshop on Serverless Computing)
