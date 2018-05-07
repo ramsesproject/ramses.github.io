@@ -4,6 +4,9 @@ layout: default
 [Home](index.html) | [Papers](papers.html) | [Presentations](presentations.html) | [Participants](participants.html) | [News](news.html)
 
 We list papers in rough order of publication.
+## 2018
+- Zhengchun Liu, Rajkumar Kettimuthu, Ian Foster and Yuanlai Liu. [A comprehensive study of wide area data movement at a scientific computing facility](). Scalable Network Traffic Analytics workshop in conjunction with the 2018 IEEE 38th International Conference on Distributed Computing Systems (ICDCS'18).
+- Zhengchun Liu, Rajkumar Kettimuthu, Ian Foster and Nageswara S.V. Rao. [Cross-geography Scientific Data Transferring Trends and Behavior](https://doi.org/10.1145/3208040.3208053). *The 27th International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC 2018)*, (acceptance rate: 22/112 = 19%).
 
 ## 2017
 * Tekin Bicer, Doga Gursoy, Rajkumar Kettimuthu, Ian T. Foster,Bin Ren, Vincent De Andrede and Francesco De Carlo. [Real-Time Data Analysis and Autonomous Steering of Synchrotron Light Source Experiments]() The 13th IEEE International Conference on eScience. (to appear).
