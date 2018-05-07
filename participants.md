@@ -69,7 +69,7 @@ Sven is interested in the development of reliable methods for solving large-scal
 
 <img src="files/img/zhengchun_liu.png" alt="Drawing" style="width: 100px;"/>
 
-Zhengchun Liu is a postdoctoral appointee at the Mathematics and Computer Science Division, Argonne National Laboratory. In this project, he develops end-to-end analytical performance models to transform understanding of the behavior of science workflows in extreme-scale science environments. More specifically, these models are developed to predict the behavior of a science workflow before it is implemented, to explain why performance does not meet design goals, and to architect science environments to meet workflow needs.
+Zhengchun Liu is a Research Scientist at the Computation Institute of the University of Chicago. He also holds a Joint Appointment at the Data Science and Learning division of Argonne National Laboratory. In this project, he develops end-to-end analytical performance models to transform understanding of the behavior of science workflows in extreme-scale science environments. More specifically, these models are developed to predict the behavior of a science workflow before it is implemented, to explain why performance does not meet design goals, and to architect science environments to meet workflow needs.
 
 ---
 [Todd Munson, Argonne National Laboratory](http://www.mcs.anl.gov/~tmunson/) (RAMSES-1 and RAMSES-2)
