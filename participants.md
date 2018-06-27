@@ -65,7 +65,7 @@ Tekin Bicer is an Assistant Computer/Computational Scientist at Mathematics and 
 Sven is interested in the development of reliable methods for solving large-scale nonlinear optimization problems and in the implementation and analysis of filter type algorithms. This forms the basis from which I am extending nonlinear optimization methodologies to emerging areas such as mixed-integer nonlinear optimization and optimization problems with complementarity constraints.
 
 ---
-[Zhengchun Liu](http://zliu.info), [Argonne National Laboratory](http://www.mcs.anl.gov/~zcliu/) (RAMSES-1 and RAMSES-2)
+[Zhengchun Liu](https://lzhengchun.github.io/), [Argonne National Laboratory](http://www.mcs.anl.gov/~zcliu/) (RAMSES-1 and RAMSES-2)
 
 <img src="files/img/zhengchun_liu.png" alt="Drawing" style="width: 100px;"/>
 
