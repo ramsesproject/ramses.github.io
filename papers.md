@@ -5,13 +5,17 @@ layout: default
 
 We list papers in rough order of publication.
 ## 2018
-- Zhengchun Liu, Rajkumar Kettimuthu, Ian Foster and Yuanlai Liu. [A comprehensive study of wide area data movement at a scientific computing facility](). Scalable Network Traffic Analytics workshop in conjunction with the 2018 IEEE 38th International Conference on Distributed Computing Systems (ICDCS'18).
+- Nageswara S. V. Rao, Qiang Liu, Zhengchun Liu, Rajkumar Kettimuthu, and Ian Foster. [Throughput Analytics of Data Transfer Infrastructures](). The 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (**TRIDENTCOM'18**)
+
+- Zhengchun Liu, Rajkumar Kettimuthu, Ian Foster and Yuanlai Liu. [A comprehensive study of wide area data movement at a scientific computing facility](https://doi.org/10.1109/ICDCS.2018.00180). Scalable Network Traffic Analytics workshop in conjunction with the 2018 IEEE 38th International Conference on Distributed Computing Systems (ICDCS'18).
+
 - Zhengchun Liu, Rajkumar Kettimuthu, Ian Foster and Nageswara S.V. Rao. [Cross-geography Scientific Data Transferring Trends and Behavior](https://doi.org/10.1145/3208040.3208053). The 27th International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC 2018).
 
 ## 2017
-* Tekin Bicer, Doga Gursoy, Rajkumar Kettimuthu, Ian T. Foster,Bin Ren, Vincent De Andrede and Francesco De Carlo. [Real-Time Data Analysis and Autonomous Steering of Synchrotron Light Source Experiments]() The 13th IEEE International Conference on eScience.
+* Tekin Bicer, Doga Gursoy, Rajkumar Kettimuthu, Ian T. Foster,
+Bin Ren, Vincent De Andrede and Francesco De Carlo. [Real-Time Data Analysis and Autonomous Steering of Synchrotron Light Source Experiments]() The 13th IEEE International Conference on eScience.
 
-* Zhengchun Liu, Rajkumar Kettimuthu, Sven Leyffer, Prashant Palkar and Ian Foster. [A mathematical programming and simulation based framework to evaluate cyberinfrastructure design choices](). The 13th IEEE International Conference on eScience.
+* Zhengchun Liu, Rajkumar Kettimuthu, Sven Leyffer, Prashant Palkar and Ian Foster. [A mathematical programming and simulation based framework to evaluate cyberinfrastructure design choices](https://doi.org/10.1109/eScience.2017.27). The 13th IEEE International Conference on eScience.
 
 * Ryan Chard and Kyle Chard and Jason Alt and Dilworth Y. Parkinson and Steve Tuecke and Ian Foster. [RIPPLE: Home Automation for Research Data Management](). the 1st International Workshop on Serverless Computing.
 
