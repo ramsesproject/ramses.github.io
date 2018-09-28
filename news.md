@@ -3,6 +3,8 @@ layout: default
 ---
 [Home](index.html)| [Papers](papers.html) | [Presentations](presentations.html) | [Participants](participants.html) | [News](news.html)
 
+* __September 28, 2018 __ One paper entitled "_Measurements and Analytics of Wide-Area File Transfers over Dedicated Connections_" has been accepted by the 20th International Conference on Distributed Computing and Networking(**ICDCN'19**).
+
 * __September 27, 2018 __ One paper entitled "_Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections_" has been accepted by the 1st International Conference on Machine Learning for Networking (**MLN'18**).
 
 * __September 18, 2018 __ One paper entitled "_Throughput Analytics of Data Transfer Infrastructures_" has been accepted by the 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (TRIDENTCOM'18).

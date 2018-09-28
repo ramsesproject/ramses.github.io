@@ -5,6 +5,9 @@ layout: default
 
 We list papers in rough order of publication date.
 ## 2018
+
+- Nageswara S. V. Rao, Qiang Liu, Satyabrata Sen, Zhengchun Liu, Rajkumar Kettimuthu, and Ian Foster. [Measurements and Analytics of Wide-Area File Transfers over Dedicated Connections](). The 20th International Conference on Distributed Computing and Networking(**ICDCN'19**).
+
 - Nageswara Rao, Satyabrata Sen, Zhengchun Liu, Rajkumar Kettimuthu and Ian Foster. [Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections](). The 1st International Conference on Machine Learning for Networking (**MLN'18**). 
 
 - Nageswara S. V. Rao, Qiang Liu, Zhengchun Liu, Rajkumar Kettimuthu, and Ian Foster. [Throughput Analytics of Data Transfer Infrastructures](). The 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (**TRIDENTCOM'18**)
