@@ -3,9 +3,9 @@ layout: default
 ---
 [Home](index.html)| [Papers](papers.html) | [Presentations](presentations.html) | [Participants](participants.html) | [News](news.html)
 
-* __11/2018__ Our paper: "_Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections_" won the [***Best Paper Award***](file/TRIDENTCOM18-best-paper.pdf) at the 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (**TRIDENTCOM'18**).
+* __11/2018__ Our paper: "_Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections_" won the [***Best Paper Award***](files/TRIDENTCOM18-best-paper.pdf) at the 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (**TRIDENTCOM'18**).
 
-* __11/2018__ Our paper: "_Throughput Analytics of Data Transfer Infrastructures_" won the [***Best Paper Award***](file/mln18-bset-paper.pdf) at the International Conference on Machine Learning for Networking (**MLN'18**).
+* __11/2018__ Our paper: "_Throughput Analytics of Data Transfer Infrastructures_" won the [***Best Paper Award***](files/mln18-bset-paper.pdf) at the International Conference on Machine Learning for Networking (**MLN'18**).
 
 * __October 16, 2018__ One paper entitled "_Building a Wide-Area File Transfer Performance Predictor: An Empirical Study_" has been accepted by the International Conference on Machine Learning for Networking (**MLN'18**).
 
